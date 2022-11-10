@@ -1,24 +1,12 @@
 # prueba-estrenar-vivienda-app
 
-## Project setup
-```
+## 0 Ejecutar el API 
+Proyecto Laravel pruebaestrenarvivienda-api
+
+## 1 instalar los paquetes de npm
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+### 2 ejecutar el proyecto
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
